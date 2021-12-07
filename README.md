@@ -14,7 +14,7 @@
 
 ## 🛠 Tecnologias
 
-- 📈 Escolhi estudar tecnologias híbridas porque acredito que são plataformas democráticas e escaláveis
+- 📈 Escolhi estudar tecnologias híbridas porque busco construir aplicações acessíveis e escaláveis
 <div style="display: inline_block">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
