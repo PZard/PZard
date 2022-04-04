@@ -1,8 +1,8 @@
 <h1 align="left">Oii, eu sou Pedro Zardin</h1>
 
-- 📱 Desenvolvedor Mobile com React Native e Flutter
+- 📱 Desenvolvedor Fullstack
 - ☕ Profissional autodidata
-- 📚 Iniciando o curso de Ciência da Computação em 2022
+- 📚 Acadêmico de Engenharia de Software na PUCRS
 - 🖊 Escrevo alguns artigos à cerca dos meus estudos no [Medium](https://medium.com/@pedrozardin/)
 - 💬 Me pergunte sobre **React, React Native, Flutter & Firebase**
 - 📫 Você pode me contactar em:
@@ -21,6 +21,7 @@
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Pedro-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />      
 </div>
   
 ## ⚙️ GitHub Analytics
