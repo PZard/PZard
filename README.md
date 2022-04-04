@@ -1,6 +1,6 @@
 <h1 align="left">Oii, eu sou Pedro Zardin</h1>
 
-- 📱 Desenvolvedor Fullstack
+- 👨‍💻 Desenvolvedor Fullstack
 - ☕ Profissional autodidata
 - 📚 Acadêmico de Engenharia de Software na PUCRS
 - 🖊 Escrevo alguns artigos à cerca dos meus estudos no [Medium](https://medium.com/@pedrozardin/)
