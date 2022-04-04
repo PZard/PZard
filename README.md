@@ -4,7 +4,7 @@
 - ☕ Profissional autodidata
 - 📚 Acadêmico de Engenharia de Software na PUCRS
 - 🖊 Escrevo alguns artigos à cerca dos meus estudos no [Medium](https://medium.com/@pedrozardin/)
-- 💬 Me pergunte sobre **React, React Native, Flutter & Firebase**
+- 💬 Me pergunte sobre **React, React Native, Flutter & Java**
 - 📫 Você pode me contactar em:
 
   
